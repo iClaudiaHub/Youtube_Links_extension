@@ -1,0 +1,10 @@
+{
+    "name": "Youtube Links",
+    "description": "Shows recent YT video links from JQQ",
+    "version": "0.1.0",
+    "browser action": {
+        "default_pupup": "popup.html"
+    },
+    "permisions": [],
+    "manifest_version": 2
+}
